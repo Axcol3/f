@@ -1,0 +1,2 @@
+TOP SECRET
+aws_secret_key=XYZ123
